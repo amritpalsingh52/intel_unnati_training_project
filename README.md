@@ -1,4 +1,7 @@
 # intel_unnati_training_project
+# `PROBLEM STATEMENT`
+# “Introduction to GenAI and Simple LLM Inference on CPU and finetuning of LLM Model to create a Custom Chatbot”.
+
 
 ![image](https://github.com/amritpalsingh52/intel_unnati_training_project/assets/124516230/d40c35b3-6282-4fc0-a278-d40fc1c8acbc)
 
