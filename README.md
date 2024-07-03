@@ -13,4 +13,5 @@ In this repository, we have used Mistral 7B to create a LLM chatbot:
 ![image](https://github.com/amritpalsingh52/intel_unnati_training_project/assets/124516230/e8ea612c-8b4b-4fc3-9c6b-fd8527de9a8d)
 
 code by:
-1. [Amritpal Singh](www.linkedin.com/in/amritpal-singh-89292925a)
+
+[Amritpal Singh]
